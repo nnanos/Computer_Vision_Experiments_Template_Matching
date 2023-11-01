@@ -81,6 +81,16 @@ algorithm will fail to detect the correct scale at which the template is located
 Reproduce the Experiments
 ============
 
+Firstly we should mention that you have to instal all the requiered python libraries and 
+to load correctly the images that provided in this repo in order for the code to work.
+To reproduce the experiments you have to execute the following command: :: 
+
+
+
+   python Template_matching_experiment.py
+
+
+
 
 
 Free software: MIT license
