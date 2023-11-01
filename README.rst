@@ -13,7 +13,7 @@ the operation of cross-correlation which is implemented as convolution of one
 image with another flipped which as we know is implemented quickly with
 FFT algorithm. 
 
-**NOTE: I also use the pyramids_implementation.py script that is implemented by me in `this <https://github.com/nnanos/Computer_Vision_Experiments_Image_Blending>`_ repo** 
+**NOTE:** I also use the pyramids_implementation.py script that is implemented by me in  `this <https://github.com/nnanos/Computer_Vision_Experiments_Image_Blending>`_  repo. 
 
 **Algorithm implemented:**
 
