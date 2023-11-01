@@ -45,24 +45,26 @@ Experiments
 
 
 
-... Image:: /Documentation_Images/Orange_Apple/B_Pyr.png
+.. Image:: /Documentation_Images/cross_cor_res1.png
 
 
-  * Template matching result
+* Template matching result
 
-... Image:: /Documentation_Images/Orange_Apple/B_Pyr.png
+
+.. Image:: /Documentation_Images/res1.png
 
 
 
 * Template with Additive Gaussian noise
 
 
-... Image:: /Documentation_Images/Orange_Apple/B_Pyr.png
+.. Image:: /Documentation_Images/cross_cor_res2.png
 
 
-  * Template matching result
+* Template matching result
   
-... Image:: /Documentation_Images/Orange_Apple/B_Pyr.png
+
+.. Image:: /Documentation_Images/res2.png
 
 
 
